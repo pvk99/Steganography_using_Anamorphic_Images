@@ -12,6 +12,8 @@ The encoding is achieved my changing the Least Significant Bit(LSB) of the anamo
 The input images are to be placed in the same folder as the scripts and the outputs are generated at the same location. Each of the individual MATLAB files can be executed to look at their respective results. The individual scripts are to be executed on matlab. 
 
 anamorphization.m  - produces the anamorphized output of a given input image
+
 sequential_encoding.m & sequential_decoding.m - encoder produces the anamorphized image, encodes the text and the decoder reverses the operations to retrieve the message in a lossless manner
+
 interpolated_encoding.m & interpolated_decoding.m - performs encoding and decoding in a lossy manner - modifies bits that have undergone anamorphization unlike lossless encoding that affects all bits of the pixel matrix.
 

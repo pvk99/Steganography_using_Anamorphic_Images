@@ -1,5 +1,5 @@
-# Steganography_using_Anamorphic_Images
-A project that explores the possibility of combining steganography &amp; anamorphisationto achieve heightened security while transmitting images from point to point
+# Steganography using Anamorphic Images
+A project that explores the possibility of combining steganography and anamorphisation to achieve heightened security while transmitting images from point to point
 
 Steganography: It is the technique of hiding secret data within an ordinary, non-secret image in order to avoid detection.
 
